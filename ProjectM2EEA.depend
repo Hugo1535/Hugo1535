@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1642365890 source:c:\users\utilisateur\documents\programmesenc\projectm2eea\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Interface.h"
+	"Graph.h"
+	"Vector.h"
+
+1642176566 c:\users\utilisateur\documents\programmesenc\projectm2eea\include\interface.h
+	<iostream>
+
+1642431359 source:c:\users\utilisateur\documents\programmesenc\projectm2eea\src\interface.cpp
+	"Interface.h"
+	<typeinfo>
+	<string>
+	<iostream>
+	<cstdio>
+
+1636991578 source:c:\users\utilisateur\documents\programmesenc\projectm2eea\src\lecturegraph.cpp
+	"LectureGraph.h"
+	<typeinfo>
+	<string >
+	<iostream >
+	<cstdio>
+
+1636992085 c:\users\utilisateur\documents\programmesenc\projectm2eea\include\lecturegraph.h
+	<iostream>
+	<fstream>
+
+1642677749 source:c:\users\utilisateur\documents\programmesenc\projectm2eea\src\graph.cpp
+	"Graph.h"
+	"Vector.h"
+	"Interface.h"
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<locale>
+
+1642677812 c:\users\utilisateur\documents\programmesenc\projectm2eea\include\graph.h
+	<iostream>
+	<vector>
+
+1642366261 c:\users\utilisateur\documents\programmesenc\projectm2eea\include\vector.h
+	<iostream>
+
+1642366301 source:c:\users\utilisateur\documents\programmesenc\projectm2eea\src\vector.cpp
+	"Vector.h"
+	"Graph.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
